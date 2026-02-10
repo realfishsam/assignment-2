@@ -22,3 +22,7 @@ q3: The load follows a Normal distribution*
 q4: The time follows a Gamma distribution.
 
 q5: Manufacturer 'c' has the best performance using the given metrics. It has the lowest average time (12.70s) for a similar average load (~74.4), resulting in the highest efficiency.
+
+# GitHub link
+The assignment only supports files and not links. Below is the link:
+https://github.com/realfishsam/assignment-2
